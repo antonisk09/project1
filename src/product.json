@@ -1,0 +1,27 @@
+[{
+    "nama" : "mobil a",
+    "deskripsi" : "tipe a",
+    "harga" : 25000000,
+    "gambar" : "./image/car3.jpg",
+    
+},
+{"nama" : "mobil b",
+    "deskripsi" : "tipe b",
+    "harga" : 35000000,
+    "gambar" : "./image/car4.jpg"
+},
+{
+    "nama" : "mobil c",
+    "deskripsi" : "tipe c",
+    "harga" : 45000000,
+    "gambar" : "./image/car5.jpg"
+
+},
+{
+    "nama" : "mobil d",
+    "deskripsi" : "tipe d",
+    "harga" : 55000000,
+    "gambar" : "./image/car6.jpg"
+
+}
+]
